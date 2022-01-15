@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <title>Coding an Architecture Style</title>
+    <title>Software Architecture</title>
     
     
     <link></link>
@@ -13,7 +13,7 @@
         <title>Coding an Architecture Style</title>
         <description>
           A practical guide to learn Software Architecture by coding in Java - 
-          If you want to know how to design and code an application with Modular Architecture, or with Layered Architecture or with Hexagonal Architecture (Clean Architecture), or with Microservice Architecture this book is for you. If you are a developer who is always trying to write clean, solid and elegant software...
+          If you want to know how to design and code an application with Modular Architecture, or with Layered Architecture or with Hexagonal Architecture (Clean Architecture), or with Microservice Architecture this book is for you. If you are a developer who is always trying to write clean, solid and elegant software structures, this book is for you. Check...
         </description>
         <pubDate>Mon, 06 Dec 2021 00:00:00 -0500</pubDate>
         <link>/2021-12-06-coding-an-architecture-style/</link>
