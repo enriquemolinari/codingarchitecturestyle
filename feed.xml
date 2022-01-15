@@ -5,8 +5,8 @@
     <title>Coding an Architecture Style</title>
     
     
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
@@ -16,8 +16,8 @@
           If you want to know how to design and code an application with Modular Architecture, or with Layered Architecture or with Hexagonal Architecture (Clean Architecture), or with Microservice Architecture this book is for you. If you are a developer who is always trying to write clean, solid and elegant software...
         </description>
         <pubDate>Mon, 06 Dec 2021 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2021-12-06-coding-an-architecture-style/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021-12-06-coding-an-architecture-style/</guid>
+        <link>/2021-12-06-coding-an-architecture-style/</link>
+        <guid isPermaLink="true">/2021-12-06-coding-an-architecture-style/</guid>
       </item>
     
   </channel>
